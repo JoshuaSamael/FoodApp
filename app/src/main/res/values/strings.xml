@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FoodApp</string>
+    <string name="burguer">Hamburguesa doble con queso</string>
+    <string name="descripcion">Experimenta el deleite de nuestra hamburguesa de doble carne: dos patties de carne premium perfectamente cocidas, fusionadas con quesos derretidos, frescura de lechuga y tomate, todo abrazado por un pan suave y tostado. Rematada con nuestra irresistible salsa especial, esta obra maestra culinaria te llevará a un viaje de sabores intensos y carnosos. ¡Prepárate para la Doble Explosión Carnívora!</string>
+    <string name="precio">"$200</string>
+    <string name="boton">Comprar</string>
+    <string name="compra">Compra exitosa</string>
+    <string name="exito">Tu hamburguesa doble con queso ha sido comprado correctamente</string>
+</resources>
